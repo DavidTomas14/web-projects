@@ -270,7 +270,6 @@ p{
     background-size: cover;
     background-position: center;
     background-attachment: var(--hero-attachment);
-    width: 100%;
 }
 .hero-image-opacity{
     width: 100%;
@@ -279,6 +278,7 @@ p{
     justify-content: center;
     align-items: center;
     text-align: center;
+    overflow: hidden;
     background-color: var(--hero-opacity-color);
 }
 
