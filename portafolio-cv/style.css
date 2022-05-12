@@ -16,7 +16,7 @@
     --white-alpha-color:rgba(255, 255, 255, 0.5);
     --black-alpha-color:rgba(0, 0, 0, 0.5);
     --font:"Raleway", sans-serif;
-    --max-width:1200px;
+    /* --max-width:1200px; */
     --header-height: 4rem;
 }
 
@@ -451,7 +451,7 @@ progress::-moz-progress-value{
 .container{
     margin-left: auto;
     margin-right: auto;
-    max-width: var(--max-width);
+  /*   max-width: var(--max-width); */
 }
 
 .gray-scale{
