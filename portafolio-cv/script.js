@@ -20,7 +20,7 @@
     });
 })(document);
 
-/* ******* Menu ******* */
+/* ******* Contact Form ******* */
 ((d)=>{
 const $form = d.querySelector(".contact-form"),
     $loader = d.querySelector(".contact-form-loader"),
